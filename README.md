@@ -11,7 +11,7 @@ brush up on and learn Python parallely with JS,CSS,React and C++.
 
 **Link to work:** [Day 1](https://github.com/sanghaarsha/100-Days-Of-Code/tree/master/Day-1)
 
-### Day 1: Nov 12, 2020 (Working with Data)
+### Day 2: Nov 12, 2020 (Working with Data)
 
 ##### (data types, operations, formatting output)
 
