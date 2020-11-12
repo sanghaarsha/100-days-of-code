@@ -2,7 +2,7 @@
 
 ### Day 1: Nov 11, 2020 (Working with Variables)
 
-##### (user input,variables, string concatenation)
+##### (user input, variables, string concatenation)
 
 **Today's Progress:** Learnt about printing to console, taking user input, performing string concatenation, storing data in variables.
 
@@ -13,10 +13,10 @@ brush up on and learn Python parallely with JS,CSS,React and C++.
 
 ### Day 1: Nov 12, 2020 (Working with Data)
 
-##### (data tyopes,operations, formatting output)
+##### (data types, operations, formatting output)
 
-**Today's Progress:** Learnt about primitive data types, math operations, output formatting and did few projects
+**Today's Progress:** Learnt about primitive data types, math operations, output formatting and did few projects.
 
-**Thoughts:** Although i knew about must of these stuffs formatted output in python was new to me. Learnt something new today and C++ is going good too. I have halted doing Web for now.
+**Thoughts:** Although i knew about most of these stuffs, formatted output in python was new to me. Learnt something new today and C++ is going good too. I have halted doing web for now.
 
 **Link to work:** [Day 2](https://github.com/sanghaarsha/100-Days-Of-Code/tree/master/Day-2)
