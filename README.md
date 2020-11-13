@@ -25,8 +25,8 @@ brush up on and learn Python parallely with JS,CSS,React and C++.
 
 ##### (Conditional Statements, Logical Operators, Code Blocks and Scope)
 
-**Today's Progress:**
+**Today's Progress:** Learnt about conditional statements, nested statements, logical operators, multi-line printing.
 
-**Thoughts:**
+**Thoughts:** Learning python from scratch and doing projects along is surely helping me previously unclear ideas of python syntax.
 
 **Link to work:** [Day 3](https://github.com/sanghaarsha/100-Days-Of-Code/tree/master/Day-3)
