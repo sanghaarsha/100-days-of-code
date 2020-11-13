@@ -20,3 +20,13 @@ brush up on and learn Python parallely with JS,CSS,React and C++.
 **Thoughts:** Although i knew about most of these stuffs, formatted output in python was new to me. Learnt something new today and C++ is going good too. I have halted doing web for now.
 
 **Link to work:** [Day 2](https://github.com/sanghaarsha/100-Days-Of-Code/tree/master/Day-2)
+
+### Day 3: Nov 13, 2020 (Control Flow and Logical Operators)
+
+##### (Conditional Statements, Logical Operators, Code Blocks and Scope)
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Link to work:** [Day 3](https://github.com/sanghaarsha/100-Days-Of-Code/tree/master/Day-3)
