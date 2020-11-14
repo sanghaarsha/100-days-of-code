@@ -30,3 +30,13 @@ brush up on and learn Python parallely with JS,CSS,React and C++.
 **Thoughts:** Learning python from scratch and doing projects along is surely helping me previously unclear ideas of python syntax.
 
 **Link to work:** [Day 3](https://github.com/sanghaarsha/100-Days-Of-Code/tree/master/Day-3)
+
+### Day 4: Nov 14, 2020 (Randomisation and Python Lists)
+
+##### (Python Modules, random module, lists)
+
+**Today's Progress:** Learnt about modules, creating and importing modules, random numbers and lists operations.
+
+**Thoughts:** List is an important data structure and learning modules is definitely going to help later-on.
+
+**Link to work:** [Day 4](https://github.com/sanghaarsha/100-Days-Of-Code/tree/master/Day-4)
