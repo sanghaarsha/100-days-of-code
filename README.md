@@ -40,3 +40,7 @@ brush up on and learn Python parallely with JS,CSS,React and C++.
 **Thoughts:** List is an important data structure and learning modules is definitely going to help later-on.
 
 **Link to work:** [Day 4](https://github.com/sanghaarsha/100-Days-Of-Code/tree/master/Day-4)
+
+### Day 5: Nov 15, 2020 (HALTED THE 100 DAYS CHALLENGE)
+
+**Reason:** I  have halted the 100 days of Python challenge because my exams are near and i have a lot of course materials to cover. I will still be programming but in JavaScript.I will be doing HTML, CSS, JS , React.js and Node.js, less often and not daily.
