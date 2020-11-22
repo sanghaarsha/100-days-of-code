@@ -4,7 +4,7 @@ print("What's your name?")
 # storing input in a variable 'name', to use later in the program
 name = input("Enter here: ")
 
-#Lets format and print
+# Lets format and print
 print("Hello, " + name)
 
 # variables are like containers

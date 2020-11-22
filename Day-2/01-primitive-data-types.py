@@ -26,7 +26,7 @@ print(b)  # 123
 print(123+456)  # 579
 # They are added not joined
 
-# The undescores are ignored in a integer by the compiler
+# The underscores are ignored in a integer by the compiler
 # Underscores can be used as commas, but compiler will ignore it
 c = 123_456_789
 print(c)  # 12345679

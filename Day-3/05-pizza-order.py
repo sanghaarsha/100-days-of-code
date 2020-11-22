@@ -6,25 +6,25 @@ addCheese = input("Do you want to add extra cheese? (y/n) :")
 
 cost = 0
 
-if (size == "s"):
+if size == "s":
     cost += 15
-    if(addPepperoni == "y"):
+    if addPepperoni == "y":
         cost += 2
 
-elif (size == "m"):
+elif size == "m":
     cost += 20
-    if(addPepperoni == "y"):
+    if addPepperoni == "y":
         cost += 3
 
-elif (size == "b"):
+elif size == "b":
     cost += 25
-    if(addPepperoni == "y"):
+    if addPepperoni == "y":
         cost += 3
 
 else:
     print("Invalid input!")
 
-if(addCheese == "y"):
+if addCheese == "y":
     cost += 1
 
 print(f"Your total cost is ${cost}.\n")

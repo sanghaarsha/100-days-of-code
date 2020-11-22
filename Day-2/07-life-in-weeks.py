@@ -1,4 +1,4 @@
-print("Assuming we live upto 90 Years,\nThis program calculates your time left on Earth.\n")
+print("Assuming we live up to 90 Years,\nThis program calculates your time left on Earth.\n")
 
 age = int(input("Enter your age: "))
 

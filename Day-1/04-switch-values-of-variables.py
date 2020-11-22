@@ -5,14 +5,13 @@ b = int(input("b: "))
 
 print("\nBefore Switching:")
 print("a b")
-print(a,b)
+print(a, b)
 
-
-#switching values
-c=a
-a=b
-b=c
+# switching values
+c = a
+a = b
+b = c
 
 print("\nAfter Switching:")
 print("a b")
-print(a,b)
+print(a, b)

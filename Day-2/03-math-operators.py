@@ -3,10 +3,10 @@
 #  -  : subtract
 #  *  : multiply
 #  /  : divide
-#  % (modulo) : return remainders from divison
+#  % (modulo) : return remainders from division
 # ** : power raised
 
-# Order of operations : PEMDAS (Parenthesis, Exponentsm Multiply, Divide, Add, Subtract)
+# Order of operations : PEMDAS (Parenthesis, Exponents Multiply, Divide, Add, Subtract)
 
 print(3 + 2)  # 5
 print(3 - 2)  # 1

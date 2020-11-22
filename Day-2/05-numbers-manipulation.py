@@ -13,7 +13,7 @@ print(round(div))  # 3
 # Round off by Precision using round()
 print(round(div, 4))  # 2.6667
 
-# Using floor divison : //
+# Using floor division : //
 print(8//3)  # 2
 
 # multi-operators :

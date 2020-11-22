@@ -4,7 +4,7 @@
 
 districts = ["Chitwan", "Kathmandu", "Lamjung", "Baglung"]
 
-# Acessing by index
+# Accessing by index
 print(districts[0]) # first index : 0
 print(districts[1])
 

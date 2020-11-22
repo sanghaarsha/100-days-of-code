@@ -1,6 +1,6 @@
 # TypeErrors are raised when the programmer fails to check the type of object before performing an operation on them.
 
-# For example adding a intger to the string
+# For example adding a integer to the string
 # print(22+"hello")
 
 # To avoid we must check passed object are of same types
